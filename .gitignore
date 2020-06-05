@@ -1,0 +1,9 @@
+# Project exclude paths
+/target/
+.idea
+src/main/java/com/gupaoedu/vip/pattern/proxy/dbroute
+src/main/java/com/gupaoedu/vip/pattern/proxy/general
+src/main/java/com/gupaoedu/vip/pattern/proxy/staticproxy
+src/main/java/com/gupaoedu/vip/pattern/proxy/dynamicproxy/gpproxy
+src/main/java/com/gupaoedu/vip/pattern/proxy/dynamicproxy/cglibproxy
+src/main/java/com/gupaoedu/vip/pattern/proxy/dynamicproxy/jdkproxy
